@@ -1,0 +1,15 @@
+---
+title: "Assignment 3 Website NTRES-6100"
+author: "Juan Pablo Jordán and Kelly Baxendell"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+  * Juan Pablo's Github account: <https://github.com/jpj73>
+
+  * Kelley's Github account: <https://github.com/kelly-baxendell>
+
+![This is an image of a happy dog.](https://www.hepper.com/wp-content/uploads/2021/11/rsz_shutterstock_1765335680.jpg)

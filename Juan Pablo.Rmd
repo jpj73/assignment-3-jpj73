@@ -15,11 +15,3 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 
-find_rstudio_root_file()
-library(rprojroot)
-
-rm -f C:/Users/juanp/Documents/Github/assignment-3-jpj73/.git/index.lock
-
-del -f c:/Users/juanp/Documents/Github/assignment-3-jpj73/.git/index.lock
-
-git add -A

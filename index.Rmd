@@ -4,10 +4,6 @@ author: "Juan Pablo Jordán and Kelly Baxendell"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
   * Juan Pablo's Github account: <https://github.com/jpj73>
 
   * Kelley's Github account: <https://github.com/kelly-baxendell>
